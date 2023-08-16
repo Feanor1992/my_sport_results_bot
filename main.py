@@ -9,7 +9,7 @@ from aiogram.utils import executor
 # from background import keep_alive
 
 
-api_token = '6670560499:AAFiCDModsl5adUpkYqKwuF_lZiNq3PSybM'
+api_token = ''
 bot = Bot(token=api_token)
 dispatcher = Dispatcher(bot)
 
